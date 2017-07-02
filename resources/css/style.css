@@ -1,4 +1,4 @@
-.heading, .middle {background-image:
+#heading, .middle {background-image:
   url("image/the-flatiron-building.png");
 }
 
@@ -12,7 +12,7 @@ text-align: center;}
 ul {list-style-type: none;
   }
 
-.heading a {font-size:18px;
+#heading a {font-size:18px;
 color:white;
 }
 
@@ -34,4 +34,12 @@ p {
   font-size: 23px;
   font-weight:bold;
   color:white;
+}
+
+.end{
+  text-align: left;background-color: dimgray;color: white;font-size:11px;
+}
+
+.end a{
+  color: white;font-size:11px;
 }
